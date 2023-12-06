@@ -51,3 +51,20 @@ cp .env.sample .env
 go build -o kydex ./cmd/kydex
 ./kydex
 ```
+
+
+
+## Contributing
+
+We welcome contributions to KYDEX! Please follow these steps to contribute:
+
+1. Fork the repository
+2. Create a new branch for your feature or bugfix
+3. Commit your changes
+4. Open a pull request
+
+## License
+
+KYDEX is released under the [GNU Affero General Public License v3.0](LICENSE).
+
+
