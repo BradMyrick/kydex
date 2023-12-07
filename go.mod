@@ -5,6 +5,7 @@ go 1.21.4
 require (
 	github.com/ethereum/go-ethereum v1.13.5
 	github.com/gagliardetto/solana-go v1.8.4
+	github.com/gorilla/mux v1.8.0
 	github.com/ipfs/go-ipfs-api v0.7.0
 )
 
